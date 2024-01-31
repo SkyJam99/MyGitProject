@@ -6,3 +6,6 @@ def addition():
 
 def subtraction():
     return
+
+def division():
+    return
