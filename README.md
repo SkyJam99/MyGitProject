@@ -25,25 +25,28 @@ Instructions:
 
 1. Group Formation: (COMPLETED)
 
-The groups have been created on Acorn. Please email me if you need any clarifications on this.
+2. Project Selection: (COMPLETED)
 
-2. Project Selection: (CURRENT TASK)
+Problem: Create an application that allows the user to run several different math functions (factorial, multiplication, etc.)
 
-This is not a coding assignment so you can choose any basic Python coding problem to solve. You can use assignments or Lab questions from previous classes. You should have at least two different python files + a ReadMe file. The goal is to have enough tasks for collaboration on GitHub.
+Python File 1: Contains functions for each math operation
 
-Python File 1: String Formatter - Write a program that takes a user's name and age as input and prints a formatted message.
+Python File 2: Allows the user to select a math operation, calls the function in the other file, and returns result to the user
 
-Python File 2: Palindrome Checker - Write a function that checks if a given word or phrase is a palindrome (reads the same backward as forward).
+3. Define Roles: (IN PROGRESS)
 
-3. Define Roles:
+Task List:
+
+
+
 
 Assign roles to group members. Each role should have specific responsibilities within the project. every member should have a piece of code to write.
 
-4. GitHub Repository Setup:
+4. GitHub Repository Setup: (COMPLETED)
 
 Create a new GitHub repository for your Python project, name it “MyGitProject”. Decide on the repository structure, including branches. For this project you can use the ReadMe file to write your project details and description.
 
-5. Coding Tasks:
+5. Coding Tasks: (IN PROGRESS)
 
 Identify specific coding tasks for the project. Divide the problem into smaller parts and assign these parts to different group members. Each member will be responsible for coding their assigned task.
 
