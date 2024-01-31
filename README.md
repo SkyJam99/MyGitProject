@@ -36,17 +36,21 @@ Python File 2: Allows the user to select a math operation, calls the function in
 3. Define Roles: (IN PROGRESS)
 
 Task List (x means task selected):
-x Create basic outline of both file
+
+x Create basic outline of both files
+
 File 1
 - x multiplication function
 - addition function
 - subtraction function
 - Add comments
+
 File 2
 - Get user input (a, b, operator)
 - x Use switch case based on operator to call relevant function in File 1
 - print out result to user (a, operator, b, =, answer)
 - Add comments
+
 x Compile and submit report
 
 Riley tasks:
