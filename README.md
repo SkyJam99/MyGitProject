@@ -47,7 +47,7 @@ File 1
 
 File 2
 - Get user input (a, b, operator)
-- x Use switch case based on operator to call relevant function in File 1
+- x Use if / elif statement based on operator to call relevant function in File 1
 - print out result to user (a, operator, b, =, answer)
 - Add comments
 
@@ -57,7 +57,7 @@ Riley tasks:
 - Create basic outline of both files
 - Compile and submit report
 - Multiplication function
-- Use switch case based on operator to call relevant function in File 1
+- Use if / elif statement based on operator to call relevant function in File 1
 
 Sadman tasks:
 
