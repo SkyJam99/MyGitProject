@@ -35,10 +35,29 @@ Python File 2: Allows the user to select a math operation, calls the function in
 
 3. Define Roles: (IN PROGRESS)
 
-Task List:
+Task List (x means task selected):
+x Create basic outline of both file
+File 1
+- x multiplication function
+- addition function
+- subtraction function
+- Add comments
+File 2
+- Get user input (a, b, operator)
+- x Use switch case based on operator to call relevant function in File 1
+- print out result to user (a, operator, b, =, answer)
+- Add comments
+x Compile and submit report
 
+Riley tasks:
+- Create basic outline of both files
+- Compile and submit report
+- Multiplication function
+- Use switch case based on operator to call relevant function in File 1
 
+Sadman tasks:
 
+Pranav tasks:
 
 Assign roles to group members. Each role should have specific responsibilities within the project. every member should have a piece of code to write.
 
