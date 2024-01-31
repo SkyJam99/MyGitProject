@@ -23,13 +23,17 @@ The objective of this assignment is to provide you with experience in collaborat
 
 Instructions:
 
-1. Group Formation:
+1. Group Formation: (COMPLETED)
 
 The groups have been created on Acorn. Please email me if you need any clarifications on this.
 
-2. Project Selection:
+2. Project Selection: (CURRENT TASK)
 
 This is not a coding assignment so you can choose any basic Python coding problem to solve. You can use assignments or Lab questions from previous classes. You should have at least two different python files + a ReadMe file. The goal is to have enough tasks for collaboration on GitHub.
+
+Python File 1: String Formatter - Write a program that takes a user's name and age as input and prints a formatted message.
+
+Python File 2: Palindrome Checker - Write a function that checks if a given word or phrase is a palindrome (reads the same backward as forward).
 
 3. Define Roles:
 
