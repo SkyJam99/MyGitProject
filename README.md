@@ -61,12 +61,11 @@ Riley tasks:
 - Use if / elif statement based on operator to call relevant function in File 1
 
 Sadman tasks:
+- Division function acessed in user interface
+- Describe user about given avilable operations
+- Print out result to user (a, operator, b, =, answer)
 
 Pranav tasks:
-- Addition function
-- Subtraction function
-- Get user input (a, b, operator)
-  
 
 Assign roles to group members. Each role should have specific responsibilities within the project. every member should have a piece of code to write.
 
