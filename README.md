@@ -43,6 +43,7 @@ File 1
 - x multiplication function
 - addition function
 - subtraction function
+- division function
 - Add comments
 
 File 2
@@ -60,7 +61,10 @@ Riley tasks:
 - Use if / elif statement based on operator to call relevant function in File 1
 
 Sadman tasks:
-
+- Division function
+- print out result to user (a, operator, b, =, answer
+- add comments
+  
 Pranav tasks:
 - Addition function
 - Subtraction function
