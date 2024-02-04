@@ -8,8 +8,8 @@ op = ""
 print ("Available operations : +(sum), -(difference), *(multiply), /(divide)")
 
 #Need to get int a and b, and String op (operation)
-a = input("Please enter a:")
-b = input("Please enter b:")
+a = float(input("Please enter a:"))
+b = float(input("Please enter b:"))
 op = input("Please enter operation:")
 #Create if / elif / else statement for the different operations
 if(op == "+"):

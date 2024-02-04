@@ -1,4 +1,5 @@
 # MyGitProject
+
 Repository for Group Assignment in Computer Concepts Class
 
 # Deliverables:
@@ -13,7 +14,7 @@ Submit a PDF report that contains:
 
 -          The ReadMe file (just copy and paste the content of the file)
 
--          A screenshot of the “commits” history of the project.  
+-          A screenshot of the “commits” history of the project.
 
 -          A screenshot of the final content of the shared repo. (that should be the same) in each GitHub desktop app.
 
@@ -40,6 +41,7 @@ Task List (x means task selected):
 x Create basic outline of both files
 
 File 1
+
 - x multiplication function
 - addition function
 - subtraction function
@@ -47,6 +49,7 @@ File 1
 - Add comments
 
 File 2
+
 - Get user input (a, b, operator)
 - x Use if / elif statement based on operator to call relevant function in File 1
 - print out result to user (a, operator, b, =, answer)
@@ -55,17 +58,23 @@ File 2
 x Compile and submit report
 
 Riley tasks:
+
 - Create basic outline of both files
 - Compile and submit report
 - Multiplication function
 - Use if / elif statement based on operator to call relevant function in File 1
 
 Sadman tasks:
+
 - Division function acessed in user interface
 - Describe user about given avilable operations
 - Print out result to user (a, operator, b, =, answer)
 
 Pranav tasks:
+
+- Addition function
+- Subtraction function
+- Fixed get user input (a, b, operator)
 
 Assign roles to group members. Each role should have specific responsibilities within the project. every member should have a piece of code to write.
 
@@ -88,6 +97,3 @@ Each group member should contribute to the Python project by working on their as
 ReadMe file:
 
 It should contain the role of each group member's, their contribution and code explanation.
-
-
-
