@@ -2,6 +2,49 @@
 
 Repository for Group Assignment in Computer Concepts Class
 
+Use program by running user_interface.py and following the instructions provided
+
+Task List (x means task selected):
+
+x Create basic outline of both files
+
+File 1
+
+- x multiplication function
+- x addition function
+- x subtraction function
+- x division function
+- x Add comments
+
+File 2
+
+- x Get user input (a, b, operator)
+- x Use if / elif statement based on operator to call relevant function in File 1
+- x print out result to user (a, operator, b, =, answer)
+- x Add comments
+
+x Compile and submit report
+
+Riley tasks:
+
+- Create basic outline of both files
+- Compile and submit report
+- Multiplication function
+- Use if / elif statement based on operator to call relevant function in File 1
+- Added comments to both files
+
+Sadman tasks:
+
+- Division function acessed in user interface
+- Describe user about given avilable operations
+- Print out result to user (a, operator, b, =, answer)
+
+Pranav tasks:
+
+- Addition function
+- Subtraction function
+- Fixed get user input (a, b, operator)
+
 # Deliverables:
 
 Submit a PDF report that contains:
@@ -28,53 +71,15 @@ Instructions:
 
 2. Project Selection: (COMPLETED)
 
-Problem: Create an application that allows the user to run several different math functions (factorial, multiplication, etc.)
+Problem: Create an application that allows the user to run several different math functions (addition, multiplication, etc.)
 
 Python File 1: Contains functions for each math operation
 
 Python File 2: Allows the user to select a math operation, calls the function in the other file, and returns result to the user
 
-3. Define Roles: (IN PROGRESS)
+3. Define Roles: (COMPLETED)
 
-Task List (x means task selected):
 
-x Create basic outline of both files
-
-File 1
-
-- x multiplication function
-- addition function
-- subtraction function
-- division function
-- Add comments
-
-File 2
-
-- Get user input (a, b, operator)
-- x Use if / elif statement based on operator to call relevant function in File 1
-- print out result to user (a, operator, b, =, answer)
-- Add comments
-
-x Compile and submit report
-
-Riley tasks:
-
-- Create basic outline of both files
-- Compile and submit report
-- Multiplication function
-- Use if / elif statement based on operator to call relevant function in File 1
-
-Sadman tasks:
-
-- Division function acessed in user interface
-- Describe user about given avilable operations
-- Print out result to user (a, operator, b, =, answer)
-
-Pranav tasks:
-
-- Addition function
-- Subtraction function
-- Fixed get user input (a, b, operator)
 
 Assign roles to group members. Each role should have specific responsibilities within the project. every member should have a piece of code to write.
 
@@ -82,15 +87,15 @@ Assign roles to group members. Each role should have specific responsibilities w
 
 Create a new GitHub repository for your Python project, name it “MyGitProject”. Decide on the repository structure, including branches. For this project you can use the ReadMe file to write your project details and description.
 
-5. Coding Tasks: (IN PROGRESS)
+5. Coding Tasks: (COMPLETED)
 
 Identify specific coding tasks for the project. Divide the problem into smaller parts and assign these parts to different group members. Each member will be responsible for coding their assigned task.
 
-6. Version Control Workflow:
+6. Version Control Workflow (COMPLETED):
 
 Establish a basic version control workflow using GitHub. This includes creating branches for each task, making commits, and merging changes.
 
-7. Collaborative Coding:
+7. Collaborative Coding (COMPLETED):
 
 Each group member should contribute to the Python project by working on their assigned coding tasks. Collaborate using pull requests, code reviews, and comments to ensure high-quality code.
 
